@@ -1,8 +1,8 @@
 {
-    "name": "optimus/architect",
+    "name": "ninhtqse/architect",
     "autoload": {
         "psr-4": {
-            "Optimus\\Architect\\": "src/"
+            "Ninhtqse\\Architect\\": "src/"
         }
     },
     "require": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Optimus\Architect;
+namespace Ninhtqse\Architect;
 
 use InvalidArgumentException;
 use Illuminate\Support\Collection;
